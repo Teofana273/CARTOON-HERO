@@ -1,0 +1,22 @@
+body {
+	background-color: darkgreen;
+}
+h3 {
+			color: red; 
+			text-transform: uppercase;
+			fin
+		}
+
+		.small{
+			font-size: 41px;
+		}
+
+		#first{
+			font-size: 10px;
+		}
+		span {
+			font-style: italic;
+		}
+		h3 span {
+			text-decoration: line-through;
+		}
